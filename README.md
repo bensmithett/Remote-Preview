@@ -42,6 +42,7 @@ Current alpha version is tested to be working on at least following platforms:
 
 ## TODO
 
+* Use grunt to create a watch task for a specified directory so it auto-updates everywhere
 * Get rid of jQuery dependency
 * Make a proper site for Remote Preview
 * Make a browser extension for easier usage
